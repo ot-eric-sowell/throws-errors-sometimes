@@ -1,0 +1,1 @@
+This is a default MVC project, except that the root throws an exception randomly, approvimately once every 10 requests.
